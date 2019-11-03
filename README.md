@@ -1,6 +1,21 @@
 # Team8
 
 
+#front end
+
+Django, HTML,CSS, Javascript are the technologies used for this webpage.
+
+It provides Admin, Student and Interviewees profiles.
+
+Based on profile person can see their upcoming schedule.
+
+For Admin has ability to creat the schedule.
+
+We have a page for feedback in order to collect the data.
+at structural level we chave changed the way data is being collected so we created two iumproved dataset in which one is collecting interviewees details and another dataset has students information so matching can be made easy for future puposes at dynamic level.
+
+Easy to use interface and forms to collect student and interviewer's data which makes it more easy to be scalable.
+
 
 
 #Backend algorithm for recommender system.
